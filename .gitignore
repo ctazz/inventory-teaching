@@ -1,0 +1,7 @@
+*.class
+.idea
+.DS_STORE
+target/
+project/project/
+project/target/
+logs/
